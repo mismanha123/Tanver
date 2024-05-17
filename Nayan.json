@@ -6,18 +6,18 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
-  "PREFIX": "/",
+  "BOTNAME": "SAIM-BOT",
+  "PREFIX": "!",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "845455655575",
+    "845455655575"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "845455655575",
     ""
   ],
-  "OWNER": ["100000959749712"], 
-  "APPROVED": [],
+  "OWNER": ["845455655575"], 
+  "APPROVED": [845455655575],
   "disabledcmds": [],
   "disabledevents": [],
   "note": "make sure that the bot name you entered is all lowercase",
