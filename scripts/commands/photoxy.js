@@ -1,7 +1,7 @@
 module.exports.config = {
   name: "photoxy",
   version: "2.0.0",
-  permission: ,
+  permission: 1,
   credits: "Nayan",
   description: "",
   prefix: true,
