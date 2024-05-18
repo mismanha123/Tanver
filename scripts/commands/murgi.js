@@ -1,7 +1,7 @@
 module.exports.config = {
 	name: "murgi2",
 	version: "1.0.2",
-	permission: 2,
+	permission: 1,
 	credits: "nayan",
 	prefix: false,
 	description: "",
