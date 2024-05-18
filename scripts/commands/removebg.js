@@ -55,7 +55,7 @@ module.exports.run = async function({
 module.exports.config = {
     name: "removebg",
     version: "1.0.0",
-    permission: 0,
+    permission: 1,
     credits: "Nayan",
     description: "",
     prefix: true,
