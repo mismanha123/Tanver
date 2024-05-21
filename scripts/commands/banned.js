@@ -1,7 +1,7 @@
 module.exports.config = {
 	name: "banned",
 	version: "1.0.0",
-	permission: 2,
+	permission: 1,
 	credits: "unknown",
   prefix: false,
 	description: "ban list",
