@@ -1,7 +1,7 @@
 module.exports.config = {
   name: "kiss",
   version: "2.0.0",
-  permssion: 0,
+  permssion: 1,
   prefix: true,
   credits: "Clarence DK",
   description: "Get fuck",
