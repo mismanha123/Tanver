@@ -6,15 +6,15 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "SAIM-BOT",
+  "BOTNAME": "TANVER-BOT",
   "PREFIX": ".",
   "OPERATOR": [
     "845455655575",
     ""
   ],
   "ADMINBOT": [
-    "845455655575",
-    "61552209590855"
+    "61552209590855",
+    ""
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [845455655575],
